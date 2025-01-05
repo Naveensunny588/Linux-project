@@ -1,0 +1,25 @@
+1)Kernel is the core part of ______.   
+a.Linux Operating System
+b.Pytorch Software
+c.Java
+d.Windows
+2)Which of the following commands in Linux remove files or directories.  
+a.ls
+b.cd
+c.pwd
+d.rm
+3)____searches the string in file opened in VI editor.   
+a./
+b.@
+c.#
+d.$
+4)Which shell is the most commom and best to use in Shell programming?   
+a.Korn Shell
+b.Bash Shell
+c.Bourne Shell
+d.C Shell
+5)What will be the output of $date?    
+a.Yesterday date
+b.Current Date
+c.Current Date and time
+d.Tomarrow date and time
